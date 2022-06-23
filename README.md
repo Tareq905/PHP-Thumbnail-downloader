@@ -1,2 +1,2 @@
 # Thumbnail-downloader
-This project demo is here - https://tareq905.github.io/Thumbnail-downloader/
+This project is developed with html, css, javascript and php.
